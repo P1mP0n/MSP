@@ -21,18 +21,7 @@
 # us-cal-1	  United States (California)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+1
 
 import requests,os,base64
 if not os.path.exists("./.gitignore"):
